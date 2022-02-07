@@ -1,0 +1,7 @@
+add_label_with_icon|big|Info >> `9World Lock `wx10``|left|242|
+add_label|small|`oWorld lock is Used To Lock The Worlds !|left|
+add_label|small|`wAre You Sure  You Want To Purchase `910 `wWorld Lock |left|
+add_label|small|`9Price : 10.000 Gems!|left|
+add_button|buy10worldlock|`2Buy``|left|
+add_button|ingameitems|`oBack|left|
+end_dialog||Close|

@@ -1,0 +1,7 @@
+add_label_with_icon|big|Info >> `6E-Z Rod``|left|3008|
+add_label|small|`wEz Rod Is Good For Fishing !|left|
+add_label|small|`9Are You Sure  You Want To Purchase 1 E-Z Rod |left|
+add_label|small|`9Price : 8000 Gems !|left|
+add_button|buyezrod|`2Purchase``|left|
+add_button|ingameitems|`oBack|left|
+end_dialog||Close|

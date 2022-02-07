@@ -1,0 +1,8 @@
+add_label_with_icon|big|Info >> `6Door Mover``|left|1404|
+add_label|small|`oUsed To Move The White Door!|left|
+add_label|small|`wAre You Sure  You Want To Purchase 1 Door Mover |left|
+add_label|small|`9Price : 12.000 Gems!|left|
+add_button|buydoormover|`2Buy``|left|
+add_button|blockitems|Back|
+add_button||Close|left|
+add_quick_exit

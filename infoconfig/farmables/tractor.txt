@@ -1,0 +1,8 @@
+add_label_with_icon|big|Info >> `6Tractor``|left|898|
+add_label|small|`wAre You Sure  You Want To Purchase 1 Tractor|left|
+add_label|small|`9Price : 25.000 Gems!|left|
+add_button|buytractor|`2Buy|left|
+add_button|ingameitems|`oBack|left|
+add_button|farmitems|Back|
+add_button||Close|left|
+add_quick_exit

@@ -1,0 +1,7 @@
+add_label|small|Founder|left|
+add_smalltext|-Focused|left|
+add_smalltext|-Cris|left|
+add_label|small|Developer|left|
+add_smalltext|-Leom (Head Developer)|left|
+add_smalltext|-Unknown (quit coding but he helped)|left|
+add_quick_exit|

@@ -1,0 +1,8 @@
+add_label_with_icon|big|Info >> `6Gaia``|left|6946|
+add_label|small|`oGaia Is Good If You Want To Farm !|left|
+add_label|small|`wAre You Sure  You Want To Purchase 1 Gaia |left|
+add_label|small|`9Price : 300.000 Gems !|left|
+add_button|buygaia|`2Buy``|left|
+add_button|blockitems|Back|
+add_button||Close|left|
+add_quick_exit

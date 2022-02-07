@@ -1,0 +1,6 @@
+add_label_with_icon|big|Info >> `5Soul Scythe``|left|11006|
+add_label|small|`oA power awakens in your soul. The scythe comes to life and you bend its will to your command! You are at one with the weapon, use it wisely!|left|
+add_label|small|`wYou will be able to 1 hit blocks & get extra gem drops!|left|
+add_button|buysoulscythe|`2Buy``: `62500000 Gems``|left|
+add_button|ingameitems|`oBack|left|
+end_dialog||Close|

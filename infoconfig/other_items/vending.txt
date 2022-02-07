@@ -1,0 +1,8 @@
+add_label_with_icon|big|Info >> `6Vending Machine``|left|2978|
+add_label|small|`oYou can use a vending machine to sell items in worlds!|left|
+add_label|small|`wAre You Sure  You Want To Purchase 1 Vending Machine |left|
+add_label|small|`9Price : 8.000 Gems!|left|
+add_button|buyvendingm|`2Buy``|left|
+add_button|blockitems|Back|
+add_button||Close|left|
+add_quick_exit

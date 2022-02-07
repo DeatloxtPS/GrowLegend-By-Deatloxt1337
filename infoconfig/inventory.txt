@@ -1,0 +1,6 @@
+add_label|big|`oInfo >> `9Inventory``|left|2952|
+add_label|small|`oBuy Inventory Upgrade to increase the inventory size!``|left|
+add_label|small|`wAre You Sure  You Want To Purchase 10 Inventory Slots``|left|
+add_label|small|`wPrice : `95000 Gems `w!``|left|
+add_button|buyinventory|`2Purchase``|left|
+add_button||Close|left|

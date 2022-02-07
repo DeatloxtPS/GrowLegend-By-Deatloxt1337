@@ -1,0 +1,7 @@
+add_label_with_icon|big|Info >> `6Rift Cape``|left|10424|
+add_label|small|`wEz Rod Is Good For Fishing !|left|
+add_label|small|`9Are You Sure  You Want To Purchase 1 Rift Cape |left|
+add_label|small|`9Price : 500,000 Gems !|left|
+add_button|buyriftcape|`2Purchase``|left|
+add_button|ingameitems|`oBack|left|
+end_dialog||Close|

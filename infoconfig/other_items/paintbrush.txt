@@ -1,0 +1,8 @@
+add_label_with_icon|big|Info >> `6Paint Brush``|left|3494|
+add_label|small|`oYou Can Use It With Paint Buckets To Change Blocks Color!|left|
+add_label|small|`wAre You Sure  You Want To Purchase 1 Paint Brush |left|
+add_label|small|`9Price : 30.000 Gems!|left|
+add_button|buypaintbrush|`2Buy``|left|
+add_button|blockitems|Back|
+add_button||Close|left|
+add_quick_exit

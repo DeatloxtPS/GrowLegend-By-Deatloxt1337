@@ -1,0 +1,25 @@
+starting_gems.json --- Enter the amount of gems people get when getting GrowID / Finish register.
+
+Error? Problem? No letters, nagatives, speical char
+(TO KEEP ECONOMY STABLE DON'T DO 100.000 OR MORE!)
+
+
+
+starting_items.json --- Enter the Item ID in slot1-8. Enter the amount of that item in slot1-8amount. Don't edit-
+slot1 & slot2 & slot3 (Fist / Wrench / growpedia).
+
+Error? Problem? Don't edit startpoint / endpoint or else you could break player database.
+(TO KEEP ECONOMY STABLE DON'T GIVE THEM BGL/DL OR EXPENSIVE ITEMS)
+
+
+
+inventorysize.json --- The amount of slots they get (leave it 20 unless auth to change from founder AKA leom)
+
+Error? Problem? none really besides if its a value above endpoint in starting_items.json
+
+
+
+create_acc_limit.json --- the amount of accounts can be created per IP
+
+Error? Problem? There should be no problem/error but if so dm Leom
+(TO KEEP ECONOMY STABLE DON'T SET VALUE ABOVE 5 SINCE THEY START WITH 20.000 GEMS)

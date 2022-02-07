@@ -1,0 +1,8 @@
+add_label|big|`4GTCB Store ChangeLog V0.1|left|
+add_spacer|small|
+add_button|store|>> `eVisit GTCB Store|left|
+add_button|stores|>> `#Purchase GTLG ROLES|left|
+add_button
+add_spacer|small|
+add_button||Close|left|
+add_quick_exit

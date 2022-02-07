@@ -1,0 +1,9 @@
+{
+"creators": ["leom"],
+"server_port": 17091,
+"http_port": 80,
+"server_ip": "35.239.150.56",
+"server_name": "GTLG",
+"server_discord": "https://discord.gg/gtlg",
+"debug": 0
+}

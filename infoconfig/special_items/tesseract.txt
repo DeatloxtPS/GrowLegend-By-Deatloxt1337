@@ -1,0 +1,8 @@
+add_label_with_icon|big|Info >> `6Tesseract Manipulator``|left|6952|
+add_label|small|`oWho Knows What Does It Do !|left|
+add_label|small|`wAre You Sure  You Want To Purchase 1 Tesseract Manipulator |left|
+add_label|small|`9Price : 105.000 Gems !|left|
+add_button|buytesseract|`2Buy``|left|
+add_button|blockitems|Back|
+add_button||Close|left|
+add_quick_exit

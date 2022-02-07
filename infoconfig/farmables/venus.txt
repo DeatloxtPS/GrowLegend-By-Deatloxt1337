@@ -1,0 +1,8 @@
+add_label_with_icon|big|Info >> `6Venus``|left|454|
+add_label|small|`wAre You Sure  You Want To Purchase 50 Venus|left|
+add_label|small|`9Price : 2.500 Gems!|left|
+add_button|buyvenus|`2Buy|left|
+add_button|ingameitems|`oBack|left|
+add_button|farmitems|Back|
+add_button||Close|left|
+add_quick_exit

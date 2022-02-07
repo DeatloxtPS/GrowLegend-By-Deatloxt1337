@@ -1,0 +1,17 @@
+add_label_with_icon|big|Blocks:|left|7070|
+add_button_with_icon|gaia||staticBlueFrame|6946|
+add_button_with_icon|tesseract||staticBlueFrame|6952|
+add_button_with_icon|techno||staticBlueFrame|6954|
+add_button_with_icon|magplant||staticBlueFrame|5638|
+add_button_with_icon|growscan||staticBlueFrame|6016|
+add_button_with_icon||END_LIST|noflags|0|0|
+add_button_with_icon|vendingm||staticBlueFrame|2978|
+add_button_with_icon|pjammer||staticBlueFrame|1276|
+add_button_with_icon|zjammer||staticBlueFrame|1278|
+add_button_with_icon|antigravity||staticBlueFrame|4992|
+add_button_with_icon|doormover||staticBlueFrame|1404|
+add_button_with_icon|paintbrush||staticBlueFrame|3494|
+add_button_with_icon||END_LIST|noflags|0|0|
+add_button|store|Back|
+add_button||Close|left|
+add_quick_exit

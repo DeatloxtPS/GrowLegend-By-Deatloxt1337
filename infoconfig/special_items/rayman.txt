@@ -1,0 +1,9 @@
+add_label_with_icon|big|Info >> `6Rayman's Fist``|left|
+5480|
+add_label|small|`oWho Knows !|left|
+add_label|small|`wAre You Sure  You Want To Purchase 1 Rayman|left|
+add_label|small|`9Price : 800.000 Gems!|left|
+add_button|buyrayman|`2Buy``|left|
+add_button|blockitems|Back|
+add_button||Close|left|
+add_quick_exit

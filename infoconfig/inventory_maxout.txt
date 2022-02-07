@@ -1,0 +1,4 @@
+add_label|big|`oInfo `w>> `9Inventory `w(`4Maxed out`w)``|left|2952|
+add_label|small|`oBuy Inventory Upgrade to increase the inventory size!``|left|
+add_label|small|`4Your Inventory is already maxed out!``|left|
+add_button||Close|left|

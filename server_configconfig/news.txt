@@ -1,0 +1,11 @@
+n++set_default_color|`o
+add_label_with_icon|big|GTLG|left|5016|
+add_spacer|small|
+add_button|hi|`0[`4AntiCrash`0] `1Removes clothes`o!`0]|left|
+add_spacer|small|
+add_image_button|banner|interface/large/news_banner.rttex|bannerlayout|OPENSURVEY||
+add_textbox|`2Welcome to GTLG!|left|
+add_textbox|`9UPDATED:|left|
+add_label_with_icon|medium|You can now create `#Guild`0!|left|5814|
+add_label_with_icon|medium|You can now add your `2Friend `0into `#Friend List`0!|left|1366|
+end_dialog|gazette||Ok Lets Play|

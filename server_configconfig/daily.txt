@@ -1,0 +1,10 @@
+add_label_with_icon|big|`2Daily Rewards|left|7188|
+add_spacer|small|
+add_smalltext|`#Warning `#You Could Only Choose one every 24hours|
+add_spacer|small|
+add_button_with_icon|Growtoken | Growtoken||1486||0|
+add_button_with_icon|Gems|  20k Gems||112||0|
+add_button_with_icon|Board| Megaphone||2480||0|
+add_button_with_icon|Board| Grow Spray||1778||0|
+add_button_with_icon|Board| Growtopian||1400||0|
+add_quick_exit|

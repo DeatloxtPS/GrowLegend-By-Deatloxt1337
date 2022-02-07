@@ -1,0 +1,17 @@
+add_label|big|`oGTCB Store:|left|
+add_spacer|small|
+add_smalltext|`o>> `5SOON|
+add_button_with_icon|||staticBlueFrame|10058|
+add_button_with_icon|||staticBlueFrame|3478|
+add_button_with_icon||END_LIST|noflags|0|0|
+add_spacer|small|
+add_spacer|small|
+add_button_with_icon|gachaitems||staticBlueFrame|242|
+add_button_with_icon|farmitems||staticBlueFrame|7064|
+add_button_with_icon|blockitems||staticBlueFrame|7070|
+add_button_with_icon|fishitems||staticBlueFrame|7072|
+add_button_with_icon|growtokens||staticBlueFrame|1486|
+add_button_with_icon|inventory||staticBlueFrame|9412|
+add_button_with_icon||END_LIST|noflags|0|0|
+add_button||Close|left|
+add_quick_exit

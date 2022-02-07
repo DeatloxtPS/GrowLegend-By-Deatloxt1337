@@ -1,0 +1,8 @@
+add_label_with_icon|big|Info >> `6Magplant``|left|5638|
+add_label|small|`oWho Knows !|left|
+add_label|small|`wAre You Sure  You Want To Purchase 1 Magplant |left|
+add_label|small|`9Price : 500.000 Gems !|left|
+add_button|buymagplant|`2Buy``|left|
+add_button|blockitems|Back|
+add_button||Close|left|
+add_quick_exit

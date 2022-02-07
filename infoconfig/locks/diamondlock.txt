@@ -1,0 +1,8 @@
+add_label_with_icon|big|Info >> `9Diamond Lock``|left|1796|
+add_label|small|`oDiamond Lock is Used to Lock The Worlds |left|
+add_label|small|`o1 Diamond Lock = 100 World lock  !|left|
+add_label|small|`wAre You Sure  You Want To Purchase 1 Diamond Lock |left|
+add_label|small|`9Price : 100.000 Gems !|left|
+add_button|buydiamondlock|`2Buy``|left|
+add_button|ingameitems|`oBack|left|
+end_dialog||Close|

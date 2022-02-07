@@ -1,0 +1,8 @@
+add_label_with_icon|big|Info >> `6GrowScan 9000``|left|6016|
+add_label|small|`oWho Knows What Does It Do !|left|
+add_label|small|`wAre You Sure  You Want To Purchase 1 GrowScan|left|
+add_label|small|`9Price : 280.000 Gems !|left|
+add_button|buygrowscan|`2Buy``|left|
+add_button|blockitems|Back|
+add_button||Close|left|
+add_quick_exit
