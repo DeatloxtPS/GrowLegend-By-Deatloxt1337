@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="sandbird\sandbird.c">
+      <Filter>HTTP</Filter>
+    </ClCompile>
+    <ClCompile Include="enet\callbacks.c">
+      <Filter>lib</Filter>
+    </ClCompile>
+    <ClCompile Include="enet\compress.c">
+      <Filter>lib</Filter>
+    </ClCompile>
+    <ClCompile Include="enet\host.c">
+      <Filter>lib</Filter>
+    </ClCompile>
+    <ClCompile Include="enet\list.c">
+      <Filter>lib</Filter>
+    </ClCompile>
+    <ClCompile Include="enet\packet.c">
+      <Filter>lib</Filter>
+    </ClCompile>
+    <ClCompile Include="enet\peer.c">
+      <Filter>lib</Filter>
+    </ClCompile>
+    <ClCompile Include="enet\protocol.c">
+      <Filter>lib</Filter>
+    </ClCompile>
+    <ClCompile Include="enet\unix.c">
+      <Filter>lib</Filter>
+    </ClCompile>
+    <ClCompile Include="enet\win32.c">
+      <Filter>lib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="http.h">
+      <Filter>HTTP</Filter>
+    </ClInclude>
+    <ClInclude Include="core.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Core_functions.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="playerDB.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="save.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="tile.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="trade_system.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="worldDB.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="load_file.cpp">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="load_event_results.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="sandbird\sandbird.h">
+      <Filter>HTTP</Filter>
+    </ClInclude>
+    <ClInclude Include="enet\include\callbacks.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="enet\include\enet.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="enet\include\list.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="enet\include\protocol.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="enet\include\time.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="enet\include\types.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="enet\include\unix.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="enet\include\utility.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="enet\include\win32.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="json.hpp">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="SendChat.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="HTTP">
+      <UniqueIdentifier>{41f97c6e-60c4-4db8-b17f-6693d872bd6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header">
+      <UniqueIdentifier>{310df3d6-b4c8-41b1-9869-45de4aa191bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lib">
+      <UniqueIdentifier>{22092676-1fcb-4230-b7d6-2ae1067710b3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
